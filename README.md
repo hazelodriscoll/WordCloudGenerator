@@ -7,4 +7,5 @@ The printing of the words is seperated depending on size of the word cloud, whic
 
 
 Sample Output for Alice in Wonderland book:
+
 ![image](https://user-images.githubusercontent.com/99755989/157258374-33bb2a9f-0a01-41f7-9c2c-d8ca2f340743.png)
