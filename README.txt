@@ -3,8 +3,8 @@
 *                                                   *
 *           Word Cloud Generator V0.1               *
 *     H.Dip in Science (Software Development)       *
-*               Hazel O'Driscoll   		    *
-*             Student ID: G00398263		    *
+*               Hazel O'Driscoll   		               *
+*                                             		    *
 *___________________________________________________*
 
 
@@ -45,9 +45,6 @@
 -The fonts and colours for the words are stored in the Fonts enumeration.
  The colours for the console and outputting error messages are stored in the ConsoleColor enumeration.
 
-[JavaDoc and UML]
-
--The JavaDoc and UML for the application show the public parts of the application only. Comments for private methods are within application. 
 
 [Extras]
 
